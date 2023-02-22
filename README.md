@@ -1,7 +1,8 @@
 
 # Rocketnotes
 
-A Node.js API - to request and response by http protocol and modify DB
+A Node.js "Notes App" API  to request and response by http protocol and modify DB
+
 ## Tech Stack Dependencies
 
 **Server:** Node.js, Express.js, Bcrypt.js, Knex.js, Nodemon .
