@@ -6,7 +6,7 @@ A Node.js "Notes App" API  to request and response by http protocol and modify D
 ## Tech Stack Dependencies
 
 **Server:** Node.js, Express.js, Bcrypt.js, Knex.js, Nodemon .
-**Interface at:** https://github.com/dougdbp/rocketnotes-interface/tree/main
+**Interface at:** https://github.com/dougdbp/rocketnotes-interface
 ## Installation (Test only)
 
 You will need a application like Insomnia to do the requests and see the responses. (The database can be deleted, the app will always re-criate a new DB by itself.)
