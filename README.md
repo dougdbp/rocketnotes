@@ -5,7 +5,7 @@ A Node.js "Notes App" API  to request and response by http protocol and modify D
 
 ## Tech Stack Dependencies
 
-**Server:** Node.js, Express.js, Bcrypt.js, Knex.js, Nodemon .
+**Server:** Node.js, Express.js, Bcrypt.js, Knex.js, Nodemon, Multer.js, JsonWebToken, Cors.js e Axios.
 **Interface at:** https://github.com/dougdbp/rocketnotes-interface
 ## Installation (Test only)
 
